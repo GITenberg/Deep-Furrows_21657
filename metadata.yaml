@@ -1,0 +1,28 @@
+_repo: Deep-Furrows_21657
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Moorhouse, Herbert Joseph
+    alias: Moorhouse, Hopkins
+    birthdate: 1882
+    gutenberg_agent_id: '24828'
+    url: http://www.gutenberg.org/2009/agents/24828
+description: ''
+gutenberg_issued: '2007-06-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '21657'
+  lccn: '18021180'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Agriculture -- Canada'
+- !lcc 'HD'
+- !lcsh 'Agriculture -- Canada -- Societies, etc.'
+title: Deep Furrows
+url: http://www.gutenberg.org/ebooks/21657
